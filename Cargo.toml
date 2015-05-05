@@ -1,0 +1,8 @@
+[package]
+name = "hgcollision"
+version = "0.1.0"
+authors = ["Jan de Mooij <jdemooij@mozilla.com>"]
+
+[dependencies]
+rust-crypto = "*"
+rand = "*"
